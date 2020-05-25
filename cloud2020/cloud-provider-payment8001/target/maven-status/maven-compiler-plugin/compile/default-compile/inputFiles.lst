@@ -1,0 +1,7 @@
+D:\SpringCloud\cloud2020\cloud-provider-payment8001\src\main\java\com\sn\springcloud\controller\PaymentController.java
+D:\SpringCloud\cloud2020\cloud-provider-payment8001\src\main\java\com\sn\springcloud\entities\Payment.java
+D:\SpringCloud\cloud2020\cloud-provider-payment8001\src\main\java\com\sn\springcloud\dao\PaymentDao.java
+D:\SpringCloud\cloud2020\cloud-provider-payment8001\src\main\java\com\sn\springcloud\PaymentMain8001.java
+D:\SpringCloud\cloud2020\cloud-provider-payment8001\src\main\java\com\sn\springcloud\service\PaymentService.java
+D:\SpringCloud\cloud2020\cloud-provider-payment8001\src\main\java\com\sn\springcloud\entities\CommonResult.java
+D:\SpringCloud\cloud2020\cloud-provider-payment8001\src\main\java\com\sn\springcloud\service\impl\PaymentServiceImpl.java
